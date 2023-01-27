@@ -1,0 +1,1 @@
+pyuic5 -x okno.ui -o okno_ui.py
